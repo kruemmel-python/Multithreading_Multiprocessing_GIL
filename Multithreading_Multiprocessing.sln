@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.35230.93
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Multithreading_Multiprocessing", "Multithreading_Multiprocessing\Multithreading_Multiprocessing.pyproj", "{C489F9C8-DE54-4858-AFF3-305623F9282D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C489F9C8-DE54-4858-AFF3-305623F9282D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C489F9C8-DE54-4858-AFF3-305623F9282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55BFC2AB-6C3D-4B6B-B3DF-0A99636FFDA1}
+	EndGlobalSection
+EndGlobal
